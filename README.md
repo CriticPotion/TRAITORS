@@ -128,11 +128,11 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 (인게임에서 마우스 올리면 획득처/사용처 나옴)  
   
   
-![아이템 이미지]()  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%84%9C%EB%A6%BF%EB%B9%9B%20%EC%88%98%EC%A0%95%20%EC%A1%B0%EA%B0%81.png?raw=true)  
 **서릿빛 수정 조각**  
 (시나리오 노말,익스퍼트 / 일반던전 노말 난이도에서 획득) - 105레벨 유니크 선택 상자, 보급형 마법부여 선택 상자, 심연의 편린 세트(스위칭) 선택 상자
 
-![아이템 이미지]()  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EB%B6%88%EA%B8%B8%ED%95%9C%20%EC%88%98%EC%A0%95.png?raw=true)  
 **불길한 수정**  
 (시나리오 익스퍼트 이상 / 일반던전 노말 이상 난이도에서 획득) - 105레벨 에픽 장비 선택 상자, 서릿빛 수정 조각, 새김의 돌
 
@@ -148,7 +148,7 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 **무결점 골든 베릴**  
 (노블레스 코드 / 파괴된 죽은 자의 성 보스에게서 획득) - 교환 가능 골든 베릴.
 
-![아이템 이미지]()  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%A1%B0%EA%B0%81%EB%82%9C%20%EB%B6%89%EC%9D%80%20%ED%99%A9%ED%98%BC%EC%9D%98%20%EC%88%98%EC%A0%95.png?raw=true)  
 **붉은 황혼의 수정**  
 (노블레스 코드 / 파괴된 죽은 자의 성 결과 보상) - 105레벨 에픽 장비 선택 상자(상급 던전 포함 선택)
 
@@ -161,51 +161,59 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 ## 누더기로 끼면 안되는 아이템들
   
   
-### - HP 소모 세팅 아이템  
-(공격/스킬 시전 시 HP를 소모하는 옵션이 있는 아이템)  
+### - HP 소모 세팅 아이템 (공격/스킬 시전 시 HP를 소모하는 옵션이 있는 아이템)  
 혼돈을 두른 장막(하의), 파괴된 생명(보조장비) 등  
-![아이템 이미지]()![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%ED%98%BC%EB%8F%88%EC%9D%84%20%EB%91%90%EB%A5%B8%20%EC%9E%A5%EB%A7%89.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%ED%8C%8C%EA%B4%B4%EB%90%9C%20%EC%83%9D%EB%AA%85.png?raw=true)
 
-### - MP 과소모 세팅 아이템  
-(MP소모량 50~100% 옵션이 있는 아이템) 
+### - MP 과소모 세팅 아이템 (MP소모량 50~100% 옵션이 있는 아이템)  
 엑셀러레이터(신발), 끝을 바라보는 시선(어깨), 리플레이서(팔찌) 등  
-![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%97%91%EC%85%80%EB%9F%AC%EB%A0%88%EC%9D%B4%ED%84%B0.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EB%81%9D%EC%9D%84%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%EC%8B%9C%EC%84%A0.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EB%A6%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%84%9C.png?raw=true)
 
-### - 무색 큐브 조각 과소모 세팅 아이템  
-(무색 큐브 사용량 증가)  
+### - 무색 큐브 조각 과소모 세팅 아이템 (무색 큐브 사용량 증가)  
 구속된 자유(팔찌), 타락한 영혼(귀걸이)  
-![아이템 이미지]()![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EA%B5%AC%EC%86%8D%EB%90%9C%20%EC%9E%90%EC%9C%A0.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%ED%83%80%EB%9D%BD%ED%95%9C%20%EC%98%81%ED%98%BC.png?raw=true)
 
 ### - 소울 소모 아이템  
 천재 기술자의 보호 마스크(어깨)  
-![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EB%B3%B4%ED%98%B8%20%EB%A7%88%EC%8A%A4%ED%81%AC.png?raw=true)
 
 ### - 스킬 공격력 감소 아이템  
-주체할 수 없는 낡은 규칙(어깨), 지치지 않는 여정의 하의(하의), 가이드 라인 벨트(벨트), 미니어처 헤드셋 암릿(팔찌) 등  
-![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()
+주체할 수 없는 낡은 규칙(어깨), 지치지 않는 여정의 하의(하의), 가이드 라인 벨트(벨트), 미니어쳐 헤드셋 암릿(팔찌) 등  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%A3%BC%EC%B2%B4%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EB%82%A1%EC%9D%80%20%EA%B7%9C%EC%B9%99.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%A7%80%EC%B9%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%97%AC%EC%A0%95%EC%9D%98%20%ED%95%98%EC%9D%98.png?raw=true)
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%9D%BC%EC%9D%B8%20%EB%B2%A8%ED%8A%B8.png)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B3%90%20%ED%97%A4%EB%93%9C%EC%85%8B%20%EC%95%94%EB%A6%BF.png?raw=true)
 
 ### - 유틸(공속 이속 캐속) 제한 아이템  
-전술 드론 컨트롤러 암릿(팔찌), 배회하는 혼령의 향로(귀걸이)  
-![아이템 이미지]()![아이템 이미지]()
+전술 드론 콘트롤러 암릿(팔찌), 배회하는 혼령의 향로(귀걸이)  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%A0%84%EC%88%A0%20%EB%93%9C%EB%A1%A0%20%EC%BD%98%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EC%95%94%EB%A6%BF.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EB%B0%B0%ED%9A%8C%ED%95%98%EB%8A%94%20%ED%98%BC%EB%A0%B9%EC%9D%98%20%ED%96%A5%EB%A1%9C.png?raw=true)
 
 ### - 황금 큐브 조각 소모 아이템  
 오버커런트 마그넷 링(반지) -> 이 경우 '장비 옵션 조작 키'만 안 누르면 돼서 채용은 나쁘지 않음.  
-![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%98%A4%EB%B2%84%EC%BB%A4%EB%9F%B0%ED%8A%B8%20%EB%A7%88%EA%B7%B8%EB%84%B7%20%EB%A7%81.png?raw=true)
 
-### - 회복 제한 아이템  
-(소모품 회복량 감소 등)  
+### - 회복 제한 아이템 (소모품 회복량 감소 등)  
 반짝이는 음율(반지)  
-![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94%20%EC%9D%8C%EC%9C%A8.png?raw=true)
 
-### - 드래곤 슬레이어 세트 아이템  
-(스킬레벨 +10, 사용시 레벨 -1 옵션)  
+### - 드래곤 슬레이어 세트 아이템 (스킬레벨 +10, 사용시 레벨 -1 옵션)  
 수호룡의 비호 - 자비/용기/축복(팔찌,목걸이,반지), 용살자의 증표 - 용골 뿔피리/용심 가공석/용린 귀걸이(보조장비, 마법석, 귀걸이)  
-![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()![아이템 이미지]()
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%88%98%ED%98%B8%EB%A3%A1%EC%9D%98%20%EB%B9%84%ED%98%B8%20-%20%EC%9E%90%EB%B9%84.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%88%98%ED%98%B8%EB%A3%A1%EC%9D%98%20%EB%B9%84%ED%98%B8%20-%20%EC%9A%A9%EA%B8%B0.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%88%98%ED%98%B8%EB%A3%A1%EC%9D%98%20%EB%B9%84%ED%98%B8%20-%20%EC%B6%95%EB%B3%B5.png?raw=true)  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%9A%A9%EC%82%B4%EC%9E%90%EC%9D%98%20%EC%A6%9D%ED%91%9C%20-%20%EC%9A%A9%EA%B3%A8%20%EB%BF%94%ED%94%BC%EB%A6%AC.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%9A%A9%EC%82%B4%EC%9E%90%EC%9D%98%20%EC%A6%9D%ED%91%9C%20-%20%EC%9A%A9%EC%8B%AC%20%EA%B0%80%EA%B3%B5%EC%84%9D.png?raw=true)
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/80c8b8ce6c217ddc0f293e5dba263acd7450d049/image/image_%EC%9A%A9%EC%82%B4%EC%9E%90%EC%9D%98%20%EC%A6%9D%ED%91%9C%20-%20%EC%9A%A9%EB%A6%B0%20%EA%B7%80%EA%B1%B8%EC%9D%B4.png?raw=true)
   
   
   
 ## 부위별 아이템 드랍 시트
-![던전별 드랍 시트]()  
+![던전별 드랍 시트](https://github.com/CriticPotion/TRAITORS/blob/main/image/105_dropsheet.png?raw=true)  
 110렙 찍고 빈 부분 채울 때 유용하게 사용 가능함
   
   
