@@ -139,19 +139,19 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 (시나리오 익스퍼트 이상 / 일반던전 노말 이상 난이도에서 획득)  
 `105레벨 에픽 장비 선택 상자, 서릿빛 수정 조각 구매, 새김의 돌 구매`
   
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/image_%EB%9D%BC%EC%9D%B4%EC%96%B8%20%EC%BD%94%EC%96%B4.png)  
 **라이언 코어**  
 (시나리오 익스퍼트 이상 / 일반던전 노말 이상 난이도에서 획득)  
 `안전 강화 재료(12강까지만), 강렬한 기운(재련 재료)`
   
   
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/image_%EA%B3%A8%EB%93%A0%20%EB%B2%A0%EB%A6%B4.png)  
 **골든 베릴**  
 (시나리오 익스퍼트 이상 / 일반던전 익스퍼트 이상 난이도에서 획득)  
 `장비 옵션 성장(50개), 전송(250개), 레벨 이관(500개)`
   
   
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/image_%EB%AC%B4%EA%B2%B0%EC%A0%90%20%EA%B3%A8%EB%93%A0%20%EB%B2%A0%EB%A6%B4.png)  
 **무결점 골든 베릴**  
 (노블레스 코드 / 파괴된 죽은 자의 성 보스에게서 획득)  
 `교환 가능한 골든 베릴`
@@ -163,7 +163,7 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 `105레벨 에픽 장비 선택 상자(상급 던전 포함 선택)`
   
   
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/image_%EC%A1%B0%ED%99%94%EC%9D%98%20%EA%B2%B0%EC%A0%95%EC%B2%B4.png)  
 **조화의 결정체**  
 (일반 던전 히어로즈 이상 난이도에서 획득)  
 `안전 증폭 재료`
@@ -234,19 +234,19 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
   
   
 ### -백색의 땅  
-![백색의 땅 맵 이미지]()  
+![백색의 땅 맵 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/map_%EB%B0%B1%EC%83%89%EC%9D%98%20%EB%95%85.png)  
 가장 무난한 파밍용 던전. 몹도 예쁘게 모여있고, 막피 때 풀방 효율도 좋으며, 별다른 기믹 없이 직진만 하면 돼서 편함. 기존의 항로 느낌.
 
 ### -베리콜리스  
-![베리콜리스 맵 이미지]()  
+![베리콜리스 맵 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/map_%EB%B2%A0%EB%A6%AC%EC%BD%9C%EB%A6%AC%EC%8A%A4.png)  
 주말 베릴 이벤트때 베릴이 가장 많이 떨어지는 던전. 잡몹 없이 네임드만 등장하므로 골드 효율은 구린 편. 대신 매우 빠르게 깰 수 있다.
 
 ### -나사우 삼림  
-![나사우 삼림 맵 이미지]()  
+![나사우 삼림 맵 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/map_%EB%82%98%EC%82%AC%EC%9A%B0%20%EC%82%BC%EB%A6%BC.png)  
 아칸셋, 과소모셋 등에서 쓰이는 '천재 기술자의 멀티툴 벨트'의 고유드랍몹인 드락카 앙스트 zero가 나오는 던전. 명함 따두는 용도로 돌아두면 좋을 수 있음.
 
 ### -왕의 요람  
-![왕의 요람 맵 이미지]()  
+![왕의 요람 맵 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/1c633c3cb4bd6ed2c7924446588bc65e14bc5f3e/image/map_%EC%99%95%EC%9D%98%20%EC%9A%94%EB%9E%8C.png)  
 안 무난한 파밍용 던전. 맵이 개같이 넓고, 중간에 베키와 골크가 술래잡기하면서 어깨빵치는 개같은 기믹이 있는 던전. 근데 내가 스킬 범위가 굉장히 넓어서 모든 방을 빠르게 넘어갈 수 있다 하면 추천. 몹수가 많기 때문에 백땅보다 돈은 확실히 잘 벌림.
   
   
