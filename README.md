@@ -243,39 +243,39 @@ A. 현재 메타에서 좋다고 평가받는 세팅은 **마나과소모/재화
 ### 아이템 리스트
 #### HP 회복
 - 얼티밋 제너레이터(상의)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EC%96%BC%ED%8B%B0%EB%B0%8B%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0.png)  
 ```
 한 아이템에 HP,MP 타격회복 옵션이 같이 달려있는 레전드 장비.  
 대신 그만큼 피해증가가 매우 낮으므로, 노블레스 코드 전용으로 사용하는 것을 추천.  
 참고로 필자의 경우 너무 답답해서 정가상자로 정가해서 따서 썼음.  
 ```  
-- 천재 기술자의 작업복 상의(상의)  
-![아이템 이미지]()  
+- 천재 기술자의 전문 작업복 상의(상의)  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9E%91%EC%97%85%EB%B3%B5%20%EC%83%81%EC%9D%98.png?raw=true)  
 ```
 HP 타격회복 장비. 1옵션에 2% 소모하는 옵션이 있긴 하지만, 회복 옵션이 여유롭게 상회한다.  
 아칸 세팅에서 상의 신화가 아니면 채용하지만, 유지력 목적이라면 단품으로 써도 준수함.  
 ```  
 - 천상을 수호하는 윙 아머(상의)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EC%B2%9C%EC%83%81%EC%9D%84%20%EC%88%98%ED%98%B8%ED%95%98%EB%8A%94%20%EC%9C%99%20%EC%95%84%EB%A8%B8.png)  
 ```
 모든 옵션이 HP 유지력에 몰려있는 생존 몰빵 장비.  
 피해증가도 낮지 않아서 입으면 유지력의 왕이 될 수 있지만, 노블레스 코드의 퀸 디스트로이어 고정드랍이라는 게 모든 장점을 씹어먹음.
 ```  
 - 격동하는 마음(상의)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EA%B2%A9%EB%8F%99%ED%95%98%EB%8A%94%20%EB%A7%88%EC%9D%8C.png)  
 ```
 불사 컨셉 상의 중 하나.
 사망 시 무적, HP회복, 카운터 피격시 피해감소 등의 옵션 시너지가 좋아서 끼면 실제로 일부러 죽지 않는 이상 죽기 힘든 장비.
 대신 피해증가가 조금 낮다.
 ```  
 - 맹렬한 위세(어깨)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EB%A7%B9%EB%A0%AC%ED%95%9C%20%EC%9C%84%EC%84%B8.png)  
 ```
 출혈 컨셉 어깨. 뜬금없이 3옵션에 HP회복이 달려있다.
 대신 어깨에서는 유일한 유지력 아이템이고 출혈 세팅에서도 준수한 아이템이기 때문에 밥값은 한다.  
 ```
 - 뚜렷해지는 소멸된 사념(반지)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EB%9A%9C%EB%A0%B7%ED%95%B4%EC%A7%80%EB%8A%94%20%EC%86%8C%EB%A9%B8%EB%90%9C%20%EC%82%AC%EB%85%90.png)  
 ```
 HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 옵션의 장비. 또 보너스로 MP가 반 이하로 떨어지면 HP/MP 회복량이 5000% 상승한다.  
 실제로 착용해보면 그냥 무적상의나 다름없을 정도로 좋은 옵션이다. 심지어 회복량 상승도 매우 준수해서 마나가 부족하거나 할 일도 없음.  
@@ -283,7 +283,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
 얼티밋 제너레이터와 같이 유지력 탑을 먹는 장비 중 하나.  
 ```
 - 엔데카 코어 칩(귀걸이)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EC%97%94%EB%8D%B0%EC%B9%B4%20%EC%BD%94%EC%96%B4%20%EC%B9%A9.png)  
 ```
 적 처치 시 HP 5% 회복 옵션이 있는 장비.
 석화 장비 귀걸이이긴 한데, 애초에 무력상변 세팅이 거의 의미가 없으므로 잘 쓰이지 않는 장비.
@@ -291,34 +291,34 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
 ```
 #### MP 회복
 - 리버시블 레더 코트(상의)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EB%A6%AC%EB%B2%84%EC%8B%9C%EB%B8%94%20%EB%A0%88%EB%8D%94%20%EC%BD%94%ED%8A%B8.png)  
 ```
 불사 컨셉 상의 중 하나. 대신 이 경우에는 살아나면 강제 아칸 행 + 초당 MP 2% 감소이므로 불사라기 보다는 사이온 궁같은 느낌이다. 
 깨알 공/캐속에 마나 소모량 증가도 있어서 과소모에서 쓰려면 쓸 수도 있지만,
 피해증가가 낮아서 과소모 세팅에서는 그냥 상의신화를 쓰고 마나회복이 부족한 경우에만 채용하는 경우가 많다. 
 ```
 - 엑셀러레이터(신발)  
-![아이템 이미지]()  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%97%91%EC%85%80%EB%9F%AC%EB%A0%88%EC%9D%B4%ED%84%B0.png?raw=true)  
 ```
 아칸 세팅의 신발로 자주 채용되는 장비.
 마나 소모량 100% 증가가 있지만, 쿨감 12퍼에 MP 타격회복, 준수한 피해증가 덕분에 자주 채용되는 경우가 많다.
 유지력 용으로 채용하기도 괜찮은 신발.  
 ```
 - 가이드 라인 벨트(벨트)  
-![아이템 이미지]()  
+![아이템 이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%9D%BC%EC%9D%B8%20%EB%B2%A8%ED%8A%B8.png?raw=true)  
 ```말이 많은 기본기 벨트. 기본기 한정 깡스증 30%를 제공한다.
 근데 무큐 스킬 15% 감소 옵션도 있기 때문에 기본기가 아니라면 채용하지 말자.  
 어떻게 보면 기본기 형님들 마나 부족하지 말라고 넣어놓은 옵션인 것도 같다.  
 ```
 - 천재 기술자의 멀티툴 벨트(벨트)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EB%A9%80%ED%8B%B0%ED%88%B4%20%EB%B2%A8%ED%8A%B8.png)  
 ```
 과소모 세팅의 핵심 벨트.
 마나 소모량을 100% 증가시키고, 타격시 MP 회복을 제공함.
 근데 피증량도 굉장히 준수하다. 유지력 용이 아니라 본템으로도 좋은 장비.  
 ```
 - 머신 컨트롤러 리모트(목걸이)  
-![아이템 이미지]()  
+![아이템 이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/c35fd462b8425190f9bbe7d0cab66d80b1120692/image/image_%EB%A8%B8%EC%8B%A0%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EB%A6%AC%EB%AA%A8%ED%8A%B8.png)  
 ```공격 시 MP 0.1% 회복 및 적 처치 시 MP 10% 회복 옵션을 제공하는 장비.
 사실 1옵션은 의미가 없고, 2옵션이 유지력의 핵심이 된다.
 엔데카 코어 칩 처럼 잡몹방을 한번만 거쳐도 마나가 100% 회복되는 유지력이 준수한 장비.
