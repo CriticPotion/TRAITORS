@@ -426,7 +426,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
 - **필수 아이템**
 <br></br>
   - **천재 기술자의 두터운 보호부츠(신발)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EB%91%90%ED%84%B0%EC%9A%B4%20%EB%B3%B4%ED%98%B8%EB%B6%80%EC%B8%A0.png)  
   ```
   과소모 세팅의 가장 중심이자 필수적인 아이템. 이 아이템을 위해서 MP 소모량을 증가시킨다고 할 수 있다.  
   ```  
@@ -438,14 +438,14 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
 - **핵심 아이템**
 <br></br>
   - **천재 기술자의 멀티툴 벨트(벨트)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EB%A9%80%ED%8B%B0%ED%88%B4%20%EB%B2%A8%ED%8A%B8.png?raw=true)  
   ```
   과소모 세팅에 거의 무조건 들어가는 벨트. 높은 피해증가 + 과소모 세팅에 거의 필수적인 타격시 MP 회복을 동시에 제공한다.
   ```
   MP 소모량 증가, 기본 피해증가, MP 사용 시 피해증가, 타격 시 MP 회복의 혼자서 필요한 수치를 다 제공하는 미쳐버린 벨트. 애지간해서는 끼자.  
 <br></br>
   - **끝을 바라보는 시선(어깨)**   
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%81%9D%EC%9D%84%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%EC%8B%9C%EC%84%A0.png?raw=true)  
   ```
   벨트와 같이 높은 확률로 채용하는 어깨. 높은 피해증가 + MP 소모량 175% 증가라는 파격적인 옵션을 제공한다.
   ```
@@ -454,7 +454,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
 - **고려해볼만한 아이템**
 <br></br>
   - **리버시블 레더 코트(상의)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%A6%AC%EB%B2%84%EC%8B%9C%EB%B8%94%20%EB%A0%88%EB%8D%94%20%EC%BD%94%ED%8A%B8.png?raw=true)  
   ```
   MP 소모량 50% 증가, 타격 시 MP 회복 옵션을 제공한다. 그게 끝이다.
   ```
@@ -464,7 +464,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   (+4/14 퍼섭 패치로 현역 상의로 급부상했다. 타격 시 MP 회복 옵션의 조정 덕분에, 장점이 3옵션밖에 없는 레더 코트도 엄청난 메리트의 상의가 되었다.)
 <br></br>
   - **리플레이서(팔찌)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%A6%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%84%9C.png?raw=true)  
   ```
   MP 소모량 200% 증가, MP 80% 이상일 경우 쿨회30% + 물마크30%를 제공한다. 순수과소모의 상징
   ```
@@ -475,21 +475,24 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   (+4/14 퍼섭 패치로 마나 수급이 너프되어서 타격시 MP 회복 옵션으로 유지가 불가능한 수준인 순수과소모 세팅을 포기한다는 의견이 많다.)
 <br></br>
   - **억제된 마력의 팔찌(팔찌)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/da71b4794b280fe85b656bf3e1e13635a5bbd509/image/image_%EC%96%B5%EC%A0%9C%EB%90%9C%20%EB%A7%88%EB%A0%A5%EC%9D%98%20%ED%8C%94%EC%B0%8C.png)  
   ```
   아칸 세팅의 핵심 아이템
   ```
   과소모 세팅에서 팔찌에 끼게 될 경우 두 세팅을 합치는 '아칸 과소모' 세팅이 된다. 이 경우 핵심은 아칸이므로 아칸 세팅에서 후술함.
 <br></br>
   - **상변 팔찌(팔찌)** - 생명이 담긴 가죽 토시 / 흑화의 구속 팔찌 / 포인트 레이더 암릿 / 골렘의 핵 팔찌  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EC%83%9D%EB%AA%85%EC%9D%B4%20%EB%8B%B4%EA%B8%B4%20%EA%B0%80%EC%A3%BD%20%ED%86%A0%EC%8B%9C.png)
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%ED%9D%91%ED%99%94%EC%9D%98%20%EA%B5%AC%EC%86%8D%20%ED%8C%94%EC%B0%8C.png)
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%ED%8F%AC%EC%9D%B8%ED%8A%B8%20%EB%A0%88%EC%9D%B4%EB%8D%94%20%EC%95%94%EB%A6%BF.png)
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EA%B3%A8%EB%A0%98%EC%9D%98%20%ED%95%B5%20%ED%8C%94%EC%B0%8C.png)  
   ```
   상변 세팅의 핵심 아이템
   ```
   과소모 세팅에서 팔찌에 끼게 될 경우 두 세팅을 합치는 '상변 과소모' 세팅이 된다. 이 경우 핵심은 상변이므로 상변 세팅에서 후술함.
 <br></br>
   - **머신 컨트롤러 리모트(목걸이)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%A8%B8%EC%8B%A0%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%20%EB%A6%AC%EB%AA%A8%ED%8A%B8.png?raw=true)  
   ```
   MP 소모량 50% 증가 + 적 처치 시 MP 10% 회복 옵션 제공
   ```
@@ -498,7 +501,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   (+4/14 퍼섭 패치로 고분목이 너프되면서 상대적 입지가 괜찮아졌다. 현재 375 ~ 425 사이라면 채용해볼법한 수준.)
 <br></br>
   - **원터치 스마트 리모콘(반지)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/da71b4794b280fe85b656bf3e1e13635a5bbd509/image/image_%EC%9B%90%ED%84%B0%EC%B9%98%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%A6%AC%EB%AA%A8%EC%BD%98.png)  
   ```
   MP가 낮을 수록 피해 증가, MP 소모량 100% 증가
   ```
@@ -506,7 +509,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   분명히 옵션만 보면 준수한 아이템이지만 전술링/투톤링에 밀려 이런 템이 있는지도 모르는 사람들이 더 많다.  
 <br></br>
   - **터치 컨트롤 패널(보조장비)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%ED%84%B0%EC%B9%98%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%20%ED%8C%A8%EB%84%90.png)  
   ```
   MP가 90퍼 이상을 유지할 때 피해증가 + 물/마크 제공
   ```
@@ -516,7 +519,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   다시보니 선녀같기도 하고...  
 <br></br>
   - **미니 배터리 팩(마법석)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EB%AF%B8%EB%8B%88%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%ED%8C%A9.png)  
   ```
   MP 소모량 100% 증가 + 피해 증가 옵션 제공
   ```
@@ -525,7 +528,7 @@ HP가 20% 밑으로 떨어지면 모든 MP를 소모해서 HP를 회복하는 �
   475 1회복이 되는 직업은 그냥 575 순수과소모에 령주낌ㅋㅋ  
 <br></br>
   - **부스팅 펄스 튜브(귀걸이)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EB%B6%80%EC%8A%A4%ED%8C%85%20%ED%8E%84%EC%8A%A4%20%ED%8A%9C%EB%B8%8C.png)  
   ```
   무큐기 이상 스킬들의 스킬 공격력 15% 제공(각성기 제외)
   ```
@@ -544,7 +547,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
 - **필수 아이템**  
   
   - **억제된 마력의 팔찌(팔찌)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/da71b4794b280fe85b656bf3e1e13635a5bbd509/image/image_%EC%96%B5%EC%A0%9C%EB%90%9C%20%EB%A7%88%EB%A0%A5%EC%9D%98%20%ED%8C%94%EC%B0%8C.png)  
   ```
   HP MAX -99%, 피격시 HP 대신 MP 먼저 소모
   ```
@@ -552,8 +555,8 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
 
 - **핵심 아이템**  
   
-  - **매니퓰레이터(어깨)**  
-  ![아이템이미지]()  
+  - **매니퓰레이션(어깨)**  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/da71b4794b280fe85b656bf3e1e13635a5bbd509/image/image_%EB%A7%A4%EB%8B%88%ED%93%B0%EB%A0%88%EC%9D%B4%EC%85%98.png)  
   ```
   공격 시 남은 HP의 30%를 소모하여 40초동안 피해 증가
   ```
@@ -561,7 +564,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   참고로 '파괴된 죽은 자의 성 - 심연을 걷는 자'의 고유드랍이므로, 애지간해서는 상급던전 정가 상자에서 정가로 먹는 편이다.  
   (+4/14 패치로 끝바시의 편의성이 대폭 증가함에 따라서 매니퓰 vs 끝바시 논란이 있는데, 기본 아칸 세팅에서 MP 소모량을 늘릴 이유가 없고 피증량 차가 미미해서 매니퓰이 무조건 좋다.)  
   - **엑셀러레이터(신발)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%97%91%EC%85%80%EB%9F%AC%EB%A0%88%EC%9D%B4%ED%84%B0.png?raw=true)  
   ```
   MP 비례 피해 증가, 쿨타임 12% 감소, 타격 시 MP 회복
   ```
@@ -569,7 +572,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   거기에 쿨타임 12% 감소, 타격 시 MP 회복이라는 준수한 부가 옵션도 한 몫 해서 아칸 세팅의 국밥 신발이 되었다. 후술할 절망의 발소리보다는 피해증가가 낮지만 유틸로 커버하는 느낌.  
   
   - **검은 별(목걸이)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EA%B2%80%EC%9D%80%20%EB%B3%84.png)  
   ```
   HP 비례 피해 증가, 모든 속도 20% 증가
   ```
@@ -578,7 +581,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   (+4/14 퍼섭 패치로 고분목이 너프를 받고 검은 별이 버프를 받으면서 검은 별이 딜 기대값도 앞서게 되었다.)  
   
   - **파괴된 생명(보조장비)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%ED%8C%8C%EA%B4%B4%EB%90%9C%20%EC%83%9D%EB%AA%85.png?raw=true)  
   ```
   HP가 50% 미만일 때 피해 증가, 물/마크 증가
   ```
@@ -589,7 +592,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
 - **고려해볼만한 아이템**  
   
   - **혼돈을 두른 장막(하의)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%ED%98%BC%EB%8F%88%EC%9D%84%20%EB%91%90%EB%A5%B8%20%EC%9E%A5%EB%A7%89.png?raw=true)  
   ```
   HP가 감소할 때마다 피해 증가, 물리/마법 방어력 감소
   ```
@@ -597,7 +600,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   대신 옵션이 전부 피해증가에 몰려 있어서, 후반으로 갈수록 불리해지고 가뜩이나 바지에 좋은 아이템들이 많아서 채용률이 매우 높지는 않은 편.  
   
   - **언리밋 사이버네틱(하의)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EC%96%B8%EB%A6%AC%EB%B0%8B%20%EC%82%AC%EC%9D%B4%EB%B2%84%EB%84%A4%ED%8B%B1.png)  
   ```
   HP가 50% 이하일 때 스킬 쿨타임 15% 감소
   ```
@@ -605,7 +608,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   쿨감이 필요하다거나 효율이 좋은 캐릭터라면 채용을 고려해봐도 좋다.  
   
   - **절망의 발소리(신발)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/da71b4794b280fe85b656bf3e1e13635a5bbd509/image/image_%EC%A0%88%EB%A7%9D%EC%9D%98%20%EB%B0%9C%EC%86%8C%EB%A6%AC.png)  
   ```
   던전 입장 후 소모한 HP 비례 피해 증가
   ```
@@ -615,7 +618,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
 - **주의해야 할 아이템**  
 
   - **천재 기술자의 전문 작업복 상의(상의)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EC%B2%9C%EC%9E%AC%20%EA%B8%B0%EC%88%A0%EC%9E%90%EC%9D%98%20%EC%A0%84%EB%AC%B8%20%EC%9E%91%EC%97%85%EB%B3%B5%20%EC%83%81%EC%9D%98.png?raw=true)  
   ```
   HP의 1% 이상 데미지를 받지 않을 시 쿨타임 회복 속도 20% 증가
   ```
@@ -624,7 +627,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   지금 당장의 옵션은 쉐도우 블랙 슈트의 완전한 하위 호환이므로 누더기로 입을 거 아니면 착용하지 말자.  
   
   - **고통의 상처(반지)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EA%B3%A0%ED%86%B5%EC%9D%98%20%EC%83%81%EC%B2%98.png)  
   ```
   공격 시 HP MAX 감소, 피해 증가
   ```
@@ -634,7 +637,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   얜 도대체 뭐임?  
   
   - **죽음을 부르는 관(보조장비)**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://raw.githubusercontent.com/CriticPotion/TRAITORS/5803d5af3b0810f1e654824ba6aa36de543ca8c4/image/image_%EC%A3%BD%EC%9D%8C%EC%9D%84%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EA%B4%80.png)  
   ```
   던전 입장 시 피해 증가, 피격 시 모든 속성 강화 20 감소
   ```
@@ -643,7 +646,7 @@ HP를 강제로 1%로 고정시켜버리기 때문에, HP가 낮을 때 발동�
   플레이버 텍스트가 '모두 의미없을 지어다!' 라서 1주차에 죽부관을 정가한 유저들은 저걸로 놀림당했다.  
  
   - **뚜렷해지는 소멸된 사념**  
-  ![아이템이미지]()  
+  ![아이템이미지](https://github.com/CriticPotion/TRAITORS/blob/main/image/image_%EB%9A%9C%EB%A0%B7%ED%95%B4%EC%A7%80%EB%8A%94%20%EC%86%8C%EB%A9%B8%EB%90%9C%20%EC%82%AC%EB%85%90.png?raw=true)  
   ```
   HP가 20% 이하로 떨어지면 모든 MP를 소모해 소모한 만큼 HP 회복
   ```
